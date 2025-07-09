@@ -2,7 +2,7 @@
 
 ## **Transformando Operações de Negócio com Inteligência Artificial e Google Cloud**
 
-Este repositório apresenta um estudo de caso e demonstração prática de como a Inteligência Artificial (IA) e o Machine Learning (ML) podem **revolucionar a eficiência e transformar as operações de negócios**, utilizando o ecossistema do Google Cloud. Exploramos um exemplo convincente de aplicação real através da `Coffee on Wheels`, uma empresa internacional de café em caminhões.
+Este repositório apresenta um estudo de caso e demonstração prática de como a Inteligência Artificial (IA) e o Machine Learning (ML) podem **revolucionar a eficiência e transformar as operações de negócios**, utilizando o ecossistema do Google Cloud. Exploramos um exemplo convincente de aplicação real através da `Food on Wheels`, uma empresa internacional de café em caminhões.
 
 ---
 
@@ -12,19 +12,19 @@ A IA não é apenas uma tecnologia do futuro; ela está moldando o presente ao a
 
 Vamos explorar um exemplo para entender como a IA pode aumentar a eficiência dos negócios e transformar as operações:
 
-A `Coffee on Wheels` enfrentava desafios significativos, comuns a muitas empresas de varejo e logística:
+A `Food on Wheels` enfrentava desafios significativos, comuns a muitas empresas de varejo e logística:
 
 1.  **Seleção de Locais e Otimização de Rotas:** Prever locais populares para posicionamento de caminhões e otimizar rotas com base em condições climáticas e de tráfego.
 2.  **Previsão de Vendas e Monitoramento em Tempo Real:** Antecipar a demanda e monitorar o desempenho para ajustes imediatos.
 3.  **Automação de Campanhas de Marketing:** Aumentar a eficiência e eficácia das ações de marketing.
 
-Buscando resolver esses pontos, a `Coffee on Wheels` colaborou com a `Data Beans`, uma empresa especialista em aproveitar dados e tecnologias de IA.
+Buscando resolver esses pontos, a `Food on Wheels` colaborou com a `AI Solutions`, uma empresa especialista em aproveitar dados e tecnologias de IA.
 
 ---
 
 ### **A Demonstração em Ação: Um Tour pelo Aplicativo**
 
-A demonstração construída no Google Cloud ilustra como a IA pode ser aplicada para resolver os desafios da `Coffee on Wheels` de forma prática:
+A demonstração construída no Google Cloud ilustra como a IA pode ser aplicada para resolver os desafios da `Food on Wheels` de forma prática:
 
 * **Visão Geral da Cidade:** Ao selecionar um local (como Londres), um painel exibe estatísticas gerais como receita, margem operacional e número de caminhões. Essas informações são geradas por ferramentas de dados como **BigQuery** e **Looker**, e modelos de IA como **Gemini** e **Vertex AI**.
 * **Insights por Localização:** Um resumo detalhado mostra a comparação da receita de uma cidade com a média, além de insights sobre receita por caminhão e fidelidade do cliente.
@@ -42,7 +42,7 @@ A demonstração construída no Google Cloud ilustra como a IA pode ser aplicada
 
 ### **A Magia nos Bastidores: Como é Feito?**
 
-A inteligência por trás do aplicativo da `Coffee on Wheels` reside na colaboração de múltiplos produtos do Google Cloud e no ciclo de vida completo da IA:
+A inteligência por trás do aplicativo da `Food on Wheels` reside na colaboração de múltiplos produtos do Google Cloud e no ciclo de vida completo da IA:
 
 * **Entrada Multimodal:** Incorporação de diversas formas de dados, como texto, avaliações de clientes, imagens de produtos, fotos e vídeos de ruas em tempo real.
 * **Previsão e Geração:**
@@ -62,9 +62,9 @@ Este projeto abrange todas as etapas do **ciclo de vida da IA**: ingestão e an�
 
 ---
 
-### **Benefícios Conquistados pela Coffee on Wheels**
+### **Benefícios Conquistados pela Food on Wheels**
 
-Ao alavancar essa solução baseada em IA, a Coffee on Wheels obteve ganhos significativos:
+Ao alavancar essa solução baseada em IA, a Food on Wheels obteve ganhos significativos:
 
 * **Processos de Negócios Simplificados:** Otimização em áreas como marketing, comércio digital e operações de *back office*.
 
