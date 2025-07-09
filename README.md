@@ -14,3 +14,5 @@ Vamos explora as tecnologias, produtos e ferramentas disponíveis ao longo do ci
 * **cURL:** ferramenta de linha de comando para transferência de dados com URLs.
 * **Nano Editor:** Editor de texto simples para sistemas do tipo Unix.
 
+### **Arquitetura de ML/IA no Google Cloud**
+![Gemini_Generated_Image_k0qwek0qwek0qwek](https://github.com/user-attachments/assets/b1016718-67e4-407d-9ca1-78113fc6be31)
